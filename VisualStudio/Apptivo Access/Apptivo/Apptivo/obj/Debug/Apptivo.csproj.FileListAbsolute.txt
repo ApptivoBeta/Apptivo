@@ -1,0 +1,303 @@
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\ApplicationInsights.config
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\roslyn\csc.exe
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\roslyn\vbc.exe
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\roslyn\VBCSCompiler.exe
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Apptivo.dll.config
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Apptivo.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Apptivo.pdb
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Antlr3.Runtime.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\EntityFramework.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\EntityFramework.SqlServer.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.AI.DependencyCollector.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.AI.Web.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.AI.WindowsServer.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.ApplicationInsights.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.Owin.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.Owin.Security.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.Owin.Security.Google.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Newtonsoft.Json.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Owin.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\System.Web.Helpers.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\System.Web.Mvc.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\System.Web.Optimization.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\System.Web.Razor.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\System.Web.WebPages.Deployment.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\System.Web.WebPages.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\System.Web.WebPages.Razor.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\WebGrease.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.AI.DependencyCollector.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.AI.Web.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.AI.WindowsServer.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.ApplicationInsights.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\System.Web.Helpers.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\System.Web.Mvc.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\System.Web.Optimization.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\System.Web.Razor.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\System.Web.WebPages.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\System.Web.WebPages.Deployment.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\System.Web.WebPages.Razor.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Antlr3.Runtime.pdb
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Newtonsoft.Json.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\EntityFramework.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\EntityFramework.SqlServer.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.Owin.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.Owin.Security.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.Owin.Security.Google.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\es\System.Web.Helpers.resources.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\es\System.Web.Mvc.resources.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\es\System.Web.Optimization.resources.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\es\System.Web.Razor.resources.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\es\System.Web.WebPages.resources.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\es\EntityFramework.resources.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\es\Microsoft.Owin.resources.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\es\Microsoft.Owin.Security.resources.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\obj\Debug\Apptivo.csprojResolveAssemblyReference.cache
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\obj\Debug\Apptivo.dll
+D:\Users\42252968.ALMAGRO.000\Desktop\Apptivo\Apptivo\obj\Debug\Apptivo.pdb
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\ApplicationInsights.config
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\roslyn\csc.exe
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\roslyn\System.Collections.Immutable.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\roslyn\System.Reflection.Metadata.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\roslyn\vbc.exe
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\roslyn\VBCSCompiler.exe
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\roslyn\VBCSCompiler.exe.config
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Apptivo.dll.config
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Apptivo.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Apptivo.pdb
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Antlr3.Runtime.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\EntityFramework.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\EntityFramework.SqlServer.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AI.DependencyCollector.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AI.Web.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AI.WindowsServer.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.ApplicationInsights.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AspNet.Identity.Core.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AspNet.Identity.Owin.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Host.SystemWeb.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.Cookies.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.Facebook.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.Google.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.OAuth.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.Twitter.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Web.Infrastructure.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Newtonsoft.Json.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Owin.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\System.Web.Helpers.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\System.Web.Mvc.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\System.Web.Optimization.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\System.Web.Razor.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\System.Web.WebPages.Deployment.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\System.Web.WebPages.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\System.Web.WebPages.Razor.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\WebGrease.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AI.DependencyCollector.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AI.Web.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AI.WindowsServer.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.ApplicationInsights.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\System.Web.Helpers.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\System.Web.Mvc.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\System.Web.Optimization.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\System.Web.Razor.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\System.Web.WebPages.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\System.Web.WebPages.Deployment.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\System.Web.WebPages.Razor.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Antlr3.Runtime.pdb
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Newtonsoft.Json.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\EntityFramework.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\EntityFramework.SqlServer.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AspNet.Identity.Core.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AspNet.Identity.Owin.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Host.SystemWeb.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.Facebook.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.Cookies.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.OAuth.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.Google.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.Twitter.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\es\System.Web.Helpers.resources.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\es\System.Web.Mvc.resources.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\es\System.Web.Optimization.resources.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\es\System.Web.Razor.resources.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\es\System.Web.WebPages.resources.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\es\System.Web.WebPages.Deployment.resources.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\es\System.Web.WebPages.Razor.resources.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\es\EntityFramework.resources.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\es\EntityFramework.SqlServer.resources.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\es\Microsoft.Owin.resources.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\es\Microsoft.Owin.Security.resources.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\es\Microsoft.Owin.Security.Google.resources.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\obj\Debug\Apptivo.csprojResolveAssemblyReference.cache
+Z:\6to\Apptivo Access\Apptivo\Apptivo\obj\Debug\Apptivo.dll
+Z:\6to\Apptivo Access\Apptivo\Apptivo\obj\Debug\Apptivo.pdb
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\ApplicationInsights.config
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\roslyn\csc.exe
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\roslyn\System.Collections.Immutable.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\roslyn\System.Reflection.Metadata.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\roslyn\vbc.exe
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\roslyn\VBCSCompiler.exe
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\roslyn\VBCSCompiler.exe.config
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Apptivo.dll.config
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Apptivo.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Apptivo.pdb
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Antlr3.Runtime.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\EntityFramework.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\EntityFramework.SqlServer.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AI.DependencyCollector.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AI.Web.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AI.WindowsServer.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.ApplicationInsights.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AspNet.Identity.Core.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AspNet.Identity.Owin.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Host.SystemWeb.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.Cookies.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.Facebook.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.Google.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.OAuth.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.Twitter.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Web.Infrastructure.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Newtonsoft.Json.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Owin.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\System.Web.Helpers.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\System.Web.Mvc.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\System.Web.Optimization.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\System.Web.Razor.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\System.Web.WebPages.Deployment.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\System.Web.WebPages.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\System.Web.WebPages.Razor.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\WebGrease.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AI.DependencyCollector.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AI.Web.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AI.WindowsServer.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.ApplicationInsights.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\System.Web.Helpers.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\System.Web.Mvc.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\System.Web.Optimization.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\System.Web.Razor.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\System.Web.WebPages.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\System.Web.WebPages.Deployment.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\System.Web.WebPages.Razor.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Antlr3.Runtime.pdb
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Newtonsoft.Json.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\EntityFramework.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\EntityFramework.SqlServer.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AspNet.Identity.Core.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AspNet.Identity.Owin.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Host.SystemWeb.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.Facebook.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.Cookies.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.OAuth.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.Google.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.Twitter.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\es\System.Web.Helpers.resources.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\es\System.Web.Mvc.resources.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\es\System.Web.Optimization.resources.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\es\System.Web.Razor.resources.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\es\System.Web.WebPages.resources.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\es\System.Web.WebPages.Deployment.resources.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\es\System.Web.WebPages.Razor.resources.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\es\EntityFramework.resources.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\es\EntityFramework.SqlServer.resources.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\es\Microsoft.Owin.resources.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\es\Microsoft.Owin.Security.resources.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\es\Microsoft.Owin.Security.Google.resources.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\obj\Debug\Apptivo.csprojResolveAssemblyReference.cache
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\obj\Debug\Apptivo.dll
+Z:\6to\ProyectoFinal\Apptivo Access\Apptivo\Apptivo\obj\Debug\Apptivo.pdb

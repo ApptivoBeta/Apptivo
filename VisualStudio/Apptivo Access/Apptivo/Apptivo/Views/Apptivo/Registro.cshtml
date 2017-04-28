@@ -1,0 +1,14 @@
+﻿@using Apptivo.Models
+@model Usuario
+<h2>Registro</h2>
+@using (Html.BeginForm("Registro", "Apptivo", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.Label("Ingrese Nombre:") @Html.TextBoxFor(x => x.Nombre)<br/>
+    @Html.Label("Ingrese Apellido:") @Html.TextBoxFor(x => x.Apellido)<br />
+    @Html.Label("Ingrese Email:") @Html.TextBoxFor(x => x.Email)<br />
+    @Html.Label("Ingrese Contraseña:") @Html.PasswordFor(x => x.Contraseña)<br />
+    @Html.Label("Masculino")@Html.RadioButton("Sexo", "Masculino") <br/>
+    @Html.Label("Femenino")@Html.RadioButton("Sexo", "Femenino")<br/>
+
+    <input type="submit" value="Crear"><br />
+}
